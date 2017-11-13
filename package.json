@@ -1,0 +1,33 @@
+{
+  "name": "sayon",
+  "version": "1.0.0",
+  "description": "prototype",
+  "main": "start.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "mongoose": "^4.13.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "badal mishra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annobot/newsayon.git"
+  },
+  "keywords": [
+    "pixel-dust",
+    "pixeldust",
+    "wedding",
+    "photography"
+  ],
+  "bugs": {
+    "url": "https://github.com/annobot/newsayon/issues"
+  },
+  "homepage": "https://github.com/annobot/newsayon#readme"
+}
